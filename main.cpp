@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>   // Elementul maxim dintr-un sir sa ajunga pe ultima pozitie
 
 using namespace std;
 
